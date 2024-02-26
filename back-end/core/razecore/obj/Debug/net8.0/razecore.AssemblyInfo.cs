@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("razecore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9da1e2cea7667e677b65191756d84d7e5848f32b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fd75149d440a9ca2fd08bc38bafa245cf928d6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("razecore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("razecore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

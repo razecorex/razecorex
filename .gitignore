@@ -2,3 +2,5 @@
 /back-end/core/razecore/.idea
 /front-end/next/.idea
 /.git
+/back-end/core/razecore/obj/rider.project.model.nuget.info
+/back-end/core/razecore/obj/rider.project.restore.info
